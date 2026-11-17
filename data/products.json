@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Apple MacBook Pro 14 Inch Space Grey",
+    "slug": "apple-macbook-pro-14-inch-space-grey",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    "price": 32000000,
+    "discount_price": null,
+    "category": "Electronics",
+    "brand": "Apple",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/2.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/3.webp"
+    ],
+    "stock": 24,
+    "rating": 3.7,
+    "sold": 259,
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Amazon Echo Plus",
+    "slug": "amazon-echo-plus",
+    "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+    "price": 1600000,
+    "discount_price": 1407000,
+    "category": "Electronics",
+    "brand": "Amazon",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/2.webp"
+    ],
+    "stock": 61,
+    "rating": 5,
+    "sold": 498,
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "name": "iPhone 5s",
+    "slug": "iphone-5s",
+    "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+    "price": 3200000,
+    "discount_price": 2787000,
+    "category": "Electronics",
+    "brand": "Apple",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/2.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/3.webp"
+    ],
+    "stock": 25,
+    "rating": 2.8,
+    "sold": 257,
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "Blue & Black Check Shirt",
+    "slug": "blue-black-check-shirt",
+    "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+    "price": 480000,
+    "discount_price": 406000,
+    "category": "Fashion",
+    "brand": "Fashion Trends",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/4.webp"
+    ],
+    "stock": 38,
+    "rating": 3.6,
+    "sold": 496,
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "Nike Air Jordan 1 Red And Black",
+    "slug": "nike-air-jordan-1-red-and-black",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+    "price": 2400000,
+    "discount_price": null,
+    "category": "Fashion",
+    "brand": "Nike",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/4.webp"
+    ],
+    "stock": 7,
+    "rating": 4.8,
+    "sold": 255,
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "name": "Brown Leather Belt Watch",
+    "slug": "brown-leather-belt-watch",
+    "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+    "price": 1440000,
+    "discount_price": null,
+    "category": "Fashion",
+    "brand": "Fashion Timepieces",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/3.webp"
+    ],
+    "stock": 32,
+    "rating": 4.2,
+    "sold": 494,
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "name": "Essence Mascara Lash Princess",
+    "slug": "essence-mascara-lash-princess",
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "price": 160000,
+    "discount_price": 143000,
+    "category": "Beauty",
+    "brand": "Essence",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+    ],
+    "stock": 99,
+    "rating": 2.6,
+    "sold": 253,
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "name": "Calvin Klein CK One",
+    "slug": "calvin-klein-ck-one",
+    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    "price": 800000,
+    "discount_price": null,
+    "category": "Beauty",
+    "brand": "Calvin Klein",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
+    ],
+    "stock": 29,
+    "rating": 4.4,
+    "sold": 492,
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "name": "Annibale Colombo Bed",
+    "slug": "annibale-colombo-bed",
+    "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+    "price": 30400000,
+    "discount_price": 27795000,
+    "category": "Home & Living",
+    "brand": "Annibale Colombo",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/3.webp"
+    ],
+    "stock": 88,
+    "rating": 4.8,
+    "sold": 251,
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "name": "Decoration Swing",
+    "slug": "decoration-swing",
+    "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+    "price": 960000,
+    "discount_price": 860000,
+    "category": "Home & Living",
+    "brand": "Generic",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/2.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/3.webp"
+    ],
+    "stock": 47,
+    "rating": 3.2,
+    "sold": 490,
+    "is_active": true
+  }
+]
