@@ -3,10 +3,8 @@
 import { writeFileSync, mkdirSync } from 'node:fs';
 
 const MAP = {
-  Electronics: [['laptops', 'smartphones', 'tablets', 'mobile-accessories'], 5],
-  Fashion: [['mens-shirts', 'mens-shoes', 'mens-watches', 'womens-bags', 'womens-dresses', 'womens-shoes', 'womens-watches', 'womens-jewellery', 'tops', 'sunglasses'], 5],
-  Beauty: [['beauty', 'fragrances', 'skin-care'], 4],
-  'Home & Living': [['furniture', 'home-decoration', 'kitchen-accessories'], 4],
+  Electronics: [['laptops', 'smartphones', 'tablets', 'mobile-accessories'], 9],
+  'Home & Living': [['furniture', 'home-decoration', 'kitchen-accessories'], 9],
 };
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const idr = (usd) => Math.round((usd * 16000) / 1000) * 1000;

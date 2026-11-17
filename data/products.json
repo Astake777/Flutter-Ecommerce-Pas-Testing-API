@@ -96,176 +96,83 @@
   },
   {
     "id": 6,
-    "name": "Blue & Black Check Shirt",
-    "slug": "blue-black-check-shirt",
-    "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
-    "price": 480000,
-    "discount_price": 406000,
-    "category": "Fashion",
-    "brand": "Fashion Trends",
+    "name": "Apple Airpods",
+    "slug": "apple-airpods",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+    "price": 2080000,
+    "discount_price": 1757000,
+    "category": "Electronics",
+    "brand": "Apple",
     "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
-      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/2.webp",
-      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/3.webp",
-      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/4.webp"
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/2.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/3.webp"
     ],
-    "stock": 38,
-    "rating": 3.6,
+    "stock": 67,
+    "rating": 4.2,
     "sold": 494,
     "is_active": true
   },
   {
     "id": 7,
-    "name": "Nike Air Jordan 1 Red And Black",
-    "slug": "nike-air-jordan-1-red-and-black",
-    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
-    "price": 2400000,
+    "name": "iPhone 6",
+    "slug": "iphone-6",
+    "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+    "price": 4800000,
     "discount_price": null,
-    "category": "Fashion",
-    "brand": "Nike",
+    "category": "Electronics",
+    "brand": "Apple",
     "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
-      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp",
-      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/3.webp",
-      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/4.webp"
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/2.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/3.webp"
     ],
-    "stock": 7,
-    "rating": 4.8,
+    "stock": 60,
+    "rating": 3.4,
     "sold": 253,
     "is_active": true
   },
   {
     "id": 8,
-    "name": "Brown Leather Belt Watch",
-    "slug": "brown-leather-belt-watch",
-    "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
-    "price": 1440000,
-    "discount_price": null,
-    "category": "Fashion",
-    "brand": "Fashion Timepieces",
+    "name": "Samsung Galaxy Tab S8 Plus Grey",
+    "slug": "samsung-galaxy-tab-s8-plus-grey",
+    "description": "The Samsung Galaxy Tab S8 Plus in Grey is a high-performance Android tablet by Samsung. With a large AMOLED display, powerful processor, and S Pen support, it's ideal for productivity and entertainment.",
+    "price": 9600000,
+    "discount_price": 8322000,
+    "category": "Electronics",
+    "brand": "Samsung",
     "images": [
-      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
-      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/2.webp",
-      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/3.webp"
+      "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp",
+      "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/2.webp",
+      "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/3.webp",
+      "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/4.webp"
     ],
-    "stock": 32,
-    "rating": 4.2,
+    "stock": 62,
+    "rating": 4.7,
     "sold": 492,
     "is_active": true
   },
   {
     "id": 9,
-    "name": "Black Sun Glasses",
-    "slug": "black-sun-glasses",
-    "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
-    "price": 480000,
-    "discount_price": null,
-    "category": "Fashion",
-    "brand": "Fashion Shades",
+    "name": "Huawei Matebook X Pro",
+    "slug": "huawei-matebook-x-pro",
+    "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+    "price": 22400000,
+    "discount_price": 20299000,
+    "category": "Electronics",
+    "brand": "Huawei",
     "images": [
-      "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
-      "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/2.webp",
-      "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/3.webp"
+      "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/2.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/3.webp"
     ],
-    "stock": 60,
-    "rating": 4.4,
+    "stock": 75,
+    "rating": 5,
     "sold": 251,
     "is_active": true
   },
   {
     "id": 10,
-    "name": "Blue Frock",
-    "slug": "blue-frock",
-    "description": "The Blue Frock is a charming and stylish dress for various occasions. With a vibrant blue color and a comfortable design, it adds a touch of elegance to your wardrobe.",
-    "price": 480000,
-    "discount_price": 422000,
-    "category": "Fashion",
-    "brand": "Generic",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
-      "https://cdn.dummyjson.com/product-images/tops/blue-frock/2.webp",
-      "https://cdn.dummyjson.com/product-images/tops/blue-frock/3.webp",
-      "https://cdn.dummyjson.com/product-images/tops/blue-frock/4.webp"
-    ],
-    "stock": 52,
-    "rating": 4.2,
-    "sold": 490,
-    "is_active": true
-  },
-  {
-    "id": 11,
-    "name": "Essence Mascara Lash Princess",
-    "slug": "essence-mascara-lash-princess",
-    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
-    "price": 160000,
-    "discount_price": 143000,
-    "category": "Beauty",
-    "brand": "Essence",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
-    ],
-    "stock": 99,
-    "rating": 2.6,
-    "sold": 249,
-    "is_active": true
-  },
-  {
-    "id": 12,
-    "name": "Calvin Klein CK One",
-    "slug": "calvin-klein-ck-one",
-    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
-    "price": 800000,
-    "discount_price": null,
-    "category": "Beauty",
-    "brand": "Calvin Klein",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
-      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
-      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
-    ],
-    "stock": 29,
-    "rating": 4.4,
-    "sold": 488,
-    "is_active": true
-  },
-  {
-    "id": 13,
-    "name": "Attitude Super Leaves Hand Soap",
-    "slug": "attitude-super-leaves-hand-soap",
-    "description": "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft.",
-    "price": 144000,
-    "discount_price": 117000,
-    "category": "Beauty",
-    "brand": "Attitude",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
-      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/2.webp",
-      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/3.webp"
-    ],
-    "stock": 94,
-    "rating": 3.2,
-    "sold": 247,
-    "is_active": true
-  },
-  {
-    "id": 14,
-    "name": "Eyeshadow Palette with Mirror",
-    "slug": "eyeshadow-palette-with-mirror",
-    "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
-    "price": 320000,
-    "discount_price": 262000,
-    "category": "Beauty",
-    "brand": "Glamour Beauty",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
-    ],
-    "stock": 34,
-    "rating": 2.9,
-    "sold": 486,
-    "is_active": true
-  },
-  {
-    "id": 15,
     "name": "Annibale Colombo Bed",
     "slug": "annibale-colombo-bed",
     "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
@@ -280,11 +187,11 @@
     ],
     "stock": 88,
     "rating": 4.8,
-    "sold": 245,
+    "sold": 490,
     "is_active": true
   },
   {
-    "id": 16,
+    "id": 11,
     "name": "Decoration Swing",
     "slug": "decoration-swing",
     "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
@@ -299,11 +206,11 @@
     ],
     "stock": 47,
     "rating": 3.2,
-    "sold": 484,
+    "sold": 249,
     "is_active": true
   },
   {
-    "id": 17,
+    "id": 12,
     "name": "Bamboo Spatula",
     "slug": "bamboo-spatula",
     "description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
@@ -316,11 +223,11 @@
     ],
     "stock": 37,
     "rating": 3.3,
-    "sold": 243,
+    "sold": 488,
     "is_active": true
   },
   {
-    "id": 18,
+    "id": 13,
     "name": "Annibale Colombo Sofa",
     "slug": "annibale-colombo-sofa",
     "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
@@ -334,6 +241,96 @@
       "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/3.webp"
     ],
     "stock": 60,
+    "rating": 3.9,
+    "sold": 247,
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "name": "Family Tree Photo Frame",
+    "slug": "family-tree-photo-frame",
+    "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+    "price": 480000,
+    "discount_price": 408000,
+    "category": "Home & Living",
+    "brand": "Generic",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+    ],
+    "stock": 77,
+    "rating": 4.5,
+    "sold": 486,
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "name": "Black Aluminium Cup",
+    "slug": "black-aluminium-cup",
+    "description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+    "price": 96000,
+    "discount_price": 81000,
+    "category": "Home & Living",
+    "brand": "Generic",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/2.webp"
+    ],
+    "stock": 75,
+    "rating": 4.5,
+    "sold": 245,
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "name": "Bedside Table African Cherry",
+    "slug": "bedside-table-african-cherry",
+    "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+    "price": 4800000,
+    "discount_price": 3884000,
+    "category": "Home & Living",
+    "brand": "Furniture Co.",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/2.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/3.webp"
+    ],
+    "stock": 64,
+    "rating": 2.9,
+    "sold": 484,
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "name": "House Showpiece Plant",
+    "slug": "house-showpiece-plant",
+    "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    "price": 640000,
+    "discount_price": null,
+    "category": "Home & Living",
+    "brand": "Generic",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/2.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/3.webp"
+    ],
+    "stock": 28,
+    "rating": 4.7,
+    "sold": 243,
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "name": "Black Whisk",
+    "slug": "black-whisk",
+    "description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+    "price": 160000,
+    "discount_price": 143000,
+    "category": "Home & Living",
+    "brand": "Generic",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/1.webp"
+    ],
+    "stock": 73,
     "rating": 3.9,
     "sold": 482,
     "is_active": true
