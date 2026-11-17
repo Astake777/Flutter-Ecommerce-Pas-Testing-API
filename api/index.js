@@ -2,11 +2,9 @@ import products from '../data/products.json' with { type: 'json' };
 
 const slug = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const active = products.filter((p) => p.is_active);
-const price = (p) => p.discount_price ?? p.price;
-
 const SORTS = {
-  price_asc: (a, b) => price(a) - price(b),
-  price_desc: (a, b) => price(b) - price(a),
+  price_asc: (a, b) => a.price - b.price,
+  price_desc: (a, b) => b.price - a.price,
   rating: (a, b) => b.rating - a.rating,
   sold: (a, b) => b.sold - a.sold,
 };
@@ -39,16 +37,12 @@ export function route(rawUrl) {
   if (path === '/api/featured') {
     return [200, { data: [...active].sort((a, b) => b.rating - a.rating || b.sold - a.sold).slice(0, Number(q.get('limit')) || 10) }];
   }
-  if (path === '/api/flash-sale') {
-    const pct = (p) => (p.price - p.discount_price) / p.price;
-    return [200, { data: active.filter((p) => p.discount_price).sort((a, b) => pct(b) - pct(a)).slice(0, Number(q.get('limit')) || 10) }];
-  }
   const m = path.match(/^\/api\/products\/([^/]+)$/);
   if (m) {
     const p = active.find((x) => String(x.id) === m[1] || x.slug === m[1]);
-    return p ? [200, { data: p }] : [404, { error: 'Product not found' }];
+    return p ? [200, { data: p }] : [404, { error: 'Produk tidak ditemukan' }];
   }
-  return [404, { error: 'Not found' }];
+  return [404, { error: 'Endpoint tidak ditemukan' }];
 }
 
 export default function handler(req, res) {
