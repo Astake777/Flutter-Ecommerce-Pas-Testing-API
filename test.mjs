@@ -5,7 +5,7 @@ import { route } from './api/index.js';
 const get = (u) => route(u);
 
 test('api routes', () => {
-  assert.equal(get('/api/products')[1].meta.total, 10);
+  assert.equal(get('/api/products')[1].meta.total, 18);
   assert.equal(get('/api/products/1')[1].data.id, 1);
   assert.equal(get('/api/products/9999')[0], 404);
   assert.equal(get('/api/categories')[1].data.length, 4);
